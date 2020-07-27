@@ -42,7 +42,7 @@ demonstration will shown at below
 [![Watch the video](https://img.youtube.com/vi/em-8Mo4WIXU/0.jpg)](https://youtu.be/em-8Mo4WIXU)
 
 ### screenshot result
-![sample](Assets/demo_EMS.png)
+![sample](/Assets/demo_ems.png)
 
 
 ## Technologies
