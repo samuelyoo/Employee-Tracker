@@ -2,26 +2,43 @@
   "name": "employee-tracker",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+=======
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 4e9eeb34ddb346e0d333d742b3ba9c8400f6015e
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/samuelyoo/Employee-Tracker.git"
   },
+<<<<<<< HEAD
   "author": "Samuel",
   "license": "MIT",
+=======
+  "author": "",
+  "license": "ISC",
+>>>>>>> 4e9eeb34ddb346e0d333d742b3ba9c8400f6015e
   "bugs": {
     "url": "https://github.com/samuelyoo/Employee-Tracker/issues"
   },
   "homepage": "https://github.com/samuelyoo/Employee-Tracker#readme",
   "dependencies": {
+<<<<<<< HEAD
     "chalk": "^4.1.0",
     "dotenv": "^8.2.0",
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1"
   },
   "devDependencies": {}
+=======
+    "inquirer": "^7.3.2",
+    "mysql": "^2.18.1"
+  }
+>>>>>>> 4e9eeb34ddb346e0d333d742b3ba9c8400f6015e
 }
